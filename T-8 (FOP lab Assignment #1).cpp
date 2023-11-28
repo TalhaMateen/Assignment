@@ -1,7 +1,5 @@
-/*______________________________________________
-Suppose an integer array a[5] = {1,2,3,4,5}. Add more elements to it and 
-display them in C++.
-*/
+/*Suppose an integer array a[5] = {1,2,3,4,5}. Add more elements to it and 
+display them in C++.*/
 #include<iostream>
 using namespace std;
 int main ()
