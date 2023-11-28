@@ -1,5 +1,5 @@
-/*Write a C++ program, take an integer value from user and check if it’s greater
-than 10 and less thanequal to 20. Print 1 if yes and print 0 if no. Use 
+/*Write a C++ program, take an integer value from user and check if itâ€™s greater
+than 10 and less than equal to 20. Print 1 if yes and print 0 if no. Use 
 appropriate datatype for output*/
 
 #include <iostream>
